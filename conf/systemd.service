@@ -1,5 +1,5 @@
 [Unit]
-Description=YeetFile
+Description=YeetFile: Encrypted file sharing and vault
 After=network.target
 
 [Service]

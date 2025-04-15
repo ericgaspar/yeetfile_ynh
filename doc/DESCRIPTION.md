@@ -1,1 +1,1 @@
-This is a dummy description of this app features
+A privacy-focused encrypted file sending service and file/password vault.
